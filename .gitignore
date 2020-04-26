@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+venv
+migrations
+Pipfile.lock
+.idea
+.env
